@@ -1,16 +1,31 @@
-### Hi there 👋
+<div align="center"> <h1>Hi there, I'm Manu 👋</h1> 
 
-<!--
-**ManuMan32/ManuMan32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I began my programming journey when I was 12 with Game Maker. At 16, I started creating websites with HTML, CSS, and JavaScript.
 
-Here are some ideas to get you started:
+Now at 17 I'm expanding my horizons 🚀📘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<hr>
+
+## Stack:
+
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- GML (Game Maker Language)
+
+<hr>
+
+## Projects
+
+<div align="center">
+
+| Devs Against the Clock | Space Invaders |
+| :---: | :---: |
+| A frenetic game where web developers will put their knowledge to the test | A replica of the classic game in a web version |
+
+*...and many more are coming.*
+
+</div>
