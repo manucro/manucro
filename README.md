@@ -2,6 +2,7 @@
 
 <img src="https://github.com/ManuMan32/ManuMan32/blob/main/banner.jpg"><br>
 
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq6abTyDgfHaiMEutdbmdqw)
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ManuCro32)
 
 I began my programming journey when I was 12 with Game Maker. At 16, I started creating websites with HTML, CSS, and JavaScript.
