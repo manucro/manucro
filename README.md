@@ -13,17 +13,21 @@ Now at 17 I'm expanding my horizons 🚀📘
 
 <hr>
 
-## Projects
+<div align="center"><h2>Projects</h2></div>
 
 <div align="center">
   <table>
     <tr width="100%">
-      <th width="50%" align="center">Devs Against the Clock</th>
-      <th width="50%" align="center">Space Invaders</th>
+      <th width="50%" align="center"><a href="https://github.com/ManuMan32/Devs-Against-The-Clock">Devs Against the Clock</a></th>
+      <th width="50%" align="center"><a href="https://github.com/ManuMan32/Space-Invaders">Space Invaders</a></th>
     </tr>
     <tr width="100%">
       <td width="50%" align="center">A frenetic game where web developers will put their knowledge to the test</td>
       <td width="50%" align="center">A replica of the classic game in a web version</td>
+    </tr>
+    <tr width="100%">
+      <td width="50%" align="center"><img width="100%" src="https://github.com/ManuMan32/ManuMan32/blob/main/project1.jpg"><br></td>
+      <td width="50%" align="center"><img width="100%" src="https://github.com/ManuMan32/ManuMan32/blob/main/project2.jpg"><br></td>
     </tr>
   </table>
   
