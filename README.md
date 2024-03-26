@@ -18,22 +18,22 @@ Now at 17 I'm expanding my horizons 🚀📘
 <div align="center">
   <table>
     <tr width="100%">
-      <th width="50%" align="center"><a href="https://github.com/ManuMan32/Devs-Against-The-Clock">JavaScript Retro Collection</a></th>
-      <th width="50%" align="center"><a href="https://github.com/ManuMan32/Space-Invaders">Personal Blog</a></th>
+      <th width="50%" align="center"><a href="https://github.com/ManuMan32/JavaScript-Retro-Collection">JavaScript Retro Collection</a></th>
+      <th width="50%" align="center"><a href="https://github.com/ManuMan32/PersonalBlog">Personal Blog</a></th>
     </tr>
     <tr width="100%">
       <td width="50%" align="center">Collection of Atari games available in web version.</td>
       <td width="50%" align="center">Blog where I narrate my experiences and reflections on life.</td>
     </tr>
     <tr width="100%">
-      <td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/project1.jpg"><br></td>
-      <td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/project2.jpg"><br></td>
+      <td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/project3.jpg"><br></td>
+      <td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/project4.jpg"><br></td>
     </tr>
   </table>
   <table>
     <tr width="100%">
       <th width="50%" align="center"><a href="https://github.com/ManuMan32/Devs-Against-The-Clock">Devs Against the Clock</a></th>
-      <th width="50%" align="center"><a href="https://github.com/ManuMan32/Space-Invaders">Jumping World</a></th>
+      <th width="50%" align="center"><a href="https://www.youtube.com/watch?v=GmSoohtjAng">Jumping World</a></th>
     </tr>
     <tr width="100%">
       <td width="50%" align="center">A frenetic game where web developers will put their knowledge to the test</td>
@@ -41,7 +41,7 @@ Now at 17 I'm expanding my horizons 🚀📘
     </tr>
     <tr width="100%">
       <td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/project1.jpg"><br></td>
-      <td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/project2.jpg"><br></td>
+      <td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/project5.jpg"><br></td>
     </tr>
   </table>
   
