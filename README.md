@@ -1,6 +1,6 @@
 <div align="center"> <h1>Hi there, I'm Manu 👋</h1> 
 
-<img src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/banner.jpg"><br>
+<img src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/banner-github.svg"><br>
 
 <a href="https://www.youtube.com/channel/UCq6abTyDgfHaiMEutdbmdqw" target="_blank"> ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq6abTyDgfHaiMEutdbmdqw) </a>
 <a href="https://twitter.com/intent/follow?screen_name=ManuCro32" target="_blank"> ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ManuCro32) </a>
@@ -18,12 +18,26 @@ Now at 17 I'm expanding my horizons 🚀📘
 <div align="center">
   <table>
     <tr width="100%">
+      <th width="50%" align="center"><a href="https://github.com/ManuMan32/Devs-Against-The-Clock">JavaScript Retro Collection</a></th>
+      <th width="50%" align="center"><a href="https://github.com/ManuMan32/Space-Invaders">Personal Blog</a></th>
+    </tr>
+    <tr width="100%">
+      <td width="50%" align="center">Collection of Atari games available in web version.</td>
+      <td width="50%" align="center">Blog where I narrate my experiences and reflections on life.</td>
+    </tr>
+    <tr width="100%">
+      <td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/project1.jpg"><br></td>
+      <td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/project2.jpg"><br></td>
+    </tr>
+  </table>
+  <table>
+    <tr width="100%">
       <th width="50%" align="center"><a href="https://github.com/ManuMan32/Devs-Against-The-Clock">Devs Against the Clock</a></th>
-      <th width="50%" align="center"><a href="https://github.com/ManuMan32/Space-Invaders">Space Invaders</a></th>
+      <th width="50%" align="center"><a href="https://github.com/ManuMan32/Space-Invaders">Jumping World</a></th>
     </tr>
     <tr width="100%">
       <td width="50%" align="center">A frenetic game where web developers will put their knowledge to the test</td>
-      <td width="50%" align="center">A replica of the classic game in a web version</td>
+      <td width="50%" align="center">Collaborative game. Secret project for the moment.</td>
     </tr>
     <tr width="100%">
       <td width="50%" align="center"><img width="100%" src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/project1.jpg"><br></td>
