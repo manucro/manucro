@@ -1,6 +1,6 @@
 <div align="center"> <h1>Hi there, I'm Manu 👋</h1> 
 
-<img src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/banner-github.svg"><br>
+<img src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/banner-github-july2024.png"><br>
 
 <a href="https://www.youtube.com/channel/UCq6abTyDgfHaiMEutdbmdqw" target="_blank"> ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq6abTyDgfHaiMEutdbmdqw) </a>
 <a href="https://twitter.com/intent/follow?screen_name=ManuCro32" target="_blank"> ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ManuCro32) </a>
