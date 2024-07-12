@@ -1,13 +1,15 @@
-<div align="center"> <h1>Hi there, I'm Manu 👋</h1> 
+<div align="center"> <h1>Hey! I'm Manu</h1> 
 
 <img src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/banner-github-july2024.png"><br>
 
 <a href="https://www.youtube.com/channel/UCq6abTyDgfHaiMEutdbmdqw" target="_blank"> ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq6abTyDgfHaiMEutdbmdqw) </a>
 <a href="https://twitter.com/intent/follow?screen_name=ManuCro32" target="_blank"> ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ManuCro32) </a>
 
-I began my programming journey when I was 12 with Game Maker. At 16, I started creating websites with HTML, CSS, and JavaScript.
+# Passionate about programming and technology since I was 12
 
-Now at 17 I'm expanding my horizons 🚀📘
+# Building cool stuff and sharing it with my community
+
+# Learner, willing to experiment and collab!
 
 </div>
 
