@@ -5,11 +5,11 @@
 <a href="https://www.youtube.com/channel/UCq6abTyDgfHaiMEutdbmdqw" target="_blank"> ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq6abTyDgfHaiMEutdbmdqw) </a>
 <a href="https://twitter.com/intent/follow?screen_name=ManuCro32" target="_blank"> ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ManuCro32) </a>
 
-# Passionate about programming and technology since I was 12
+### Passionate about programming and technology since I was 12
 
-# Building cool stuff and sharing it with my community
+### Building cool stuff and sharing it with my community
 
-# Learner, willing to experiment and collab!
+### Learner, willing to experiment and collab!
 
 </div>
 
