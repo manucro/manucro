@@ -54,9 +54,8 @@
 
 <table>
   <tr width="100%">
-    <td width="25%" align="center"><img width="80%" src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/html.png"></td>
-    <td width="25%" align="center"><img width="80%" src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/css.png"></td>
-    <td width="25%" align="center"><img width="80%" src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/javascript.png"></td>
-    <td width="25%" align="center"><img width="80%" src="https://raw.githubusercontent.com/ManuMan32/ManuMan32/main/typescript.png"></td>
+    <td width="33%" align="center"><img width="80%" src="https://raw.githubusercontent.com/manucro/manucro/main/javascript.png"></td>
+    <td width="33%" align="center"><img width="80%" src="https://raw.githubusercontent.com/manucro/manucro/main/typescript.png"></td>
+    <td width="33%" align="center"><img width="80%" src="https://raw.githubusercontent.com/manucro/manucro/refs/heads/main/python-logo.png"></td>
   </tr>
 </table>
