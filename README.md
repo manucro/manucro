@@ -1,14 +1,12 @@
 <div align="center"> <h1>Hey! I'm Manu</h1> 
 
-<img src="https://raw.githubusercontent.com/manucro/manucro/main/banner-github-september2024.png"><br>
-
 <a href="https://www.youtube.com/channel/UCq6abTyDgfHaiMEutdbmdqw" target="_blank"> ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCq6abTyDgfHaiMEutdbmdqw) </a>
 
-### Passionate about programming and technology since I was 12
+### Passionate about programming and technology since a young age
 
-### Building cool stuff and sharing it with my community
+### Lover of math, physics and how the world works
 
-### Learner, willing to experiment and collab!
+### Learner, willing to experiment and build cool stuff
 
 </div>
 
